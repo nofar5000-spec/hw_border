@@ -1,0 +1,14 @@
+.banner{
+	background-image: url('banner.jpg');
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
+.text{
+	background: rgb(192 200 121 / 40%);
+	padding: 5px;
+	text-align: center;
+
+}
