@@ -1,0 +1,10 @@
+.banner{
+	background-image: url('bannar1.jpeg');
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+
+}
+.text{
+	color: white;
+}
