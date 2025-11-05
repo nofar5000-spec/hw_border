@@ -1,0 +1,13 @@
+custom-btn{
+    border: blueviolet solid 4px;
+    background-color: lightpink;
+    border-radius: 20%;
+   
+   
+}
+custom-btn:hover{
+    
+        background-color: purple;
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+   
+}
